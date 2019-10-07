@@ -1,0 +1,3 @@
+# -*- coding: utf-8 -*-
+
+token = '933810539:AAH6H1P_sUtvkqM2yoOz6CtB_xUO8Yq-HT4'
