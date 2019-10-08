@@ -3,7 +3,7 @@ import re
 import telebot
 import flask
 
-bot = telebot.TeleBot("936409992:AAFSFcJDTbBGEZZIeWu5KydMpvM-HdCXjCk")
+bot = telebot.TeleBot("892154515:AAHJhs8g2JdI4GfsIqVUNsCBdfNJTUypU7Q")
 
 def text_correction(text):
     text = text.replace('\n', '')
